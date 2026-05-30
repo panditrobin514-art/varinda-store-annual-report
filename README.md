@@ -50,8 +50,8 @@ The main objective was to transform raw retail data into **clear, actionable bus
 ---
 
 ## 📂 Repository Contents
-- `Varinda_Store_Report_2022.xlsx` → Excel dashboard file  
-- `dashboard_screenshot.png` → Dashboard preview image  
+- `Vrinda_Store_Data_Analysis.xlsx` → Excel dashboard file  
+- `Varinda_Store_dashboard_image.png` → Dashboard preview image  
 - `README.md` → Project documentation  
 
 ---
